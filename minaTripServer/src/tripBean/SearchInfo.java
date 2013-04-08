@@ -1,0 +1,67 @@
+package tripBean;
+
+import java.io.Serializable;
+
+public class SearchInfo implements Serializable{
+	public String  JGDM ;
+	public String  JGMC ;
+	public String  FDDBR ;
+	public String  ZJHM ;
+	public String  JYFW ;
+	public String  JJHY ;
+	public String  JJLX ;
+	public String  JGLX ;
+	public String  ZCRQ ;
+	public String  ZGDM ;
+	public String  PZJGDM ;
+	public String  XZQH ;
+	public String  JGDZ ;
+	public String  YZBM ;
+	public String  DHHM ;
+	public String  BZRQ ;
+	public String  ZFRQ ;
+	public String  BZJGDM ;
+	public String  ZCZJ ;
+	public String  WFTZGB ;
+	public String  ZGRS ;
+	public String  NJRQ ;
+	public String  NJQX ;
+	public String  ZCH ;
+	public String  ZGMC ;
+	public String  PZJGMC ;
+	public String  PWRQ ;
+	public String  NJJHY ;
+	public String  NJJLX ;
+	public String  WTBZ ;
+	public String  ZYBZ ;
+	public String  WTBZ1 ;
+	public String  WTBZ2 ;
+	public String  WTBZ3 ;
+	public String  WTBZ4 ;
+	public String  WTBZ5 ;
+	public String  WTBZ6 ;
+	public String  WTBZ7 ;
+	public String  WTBZ8 ;
+	public String  WTBZ9 ;
+	public String  HBZL ;
+	public String  BGRQ ;
+	public String  SJJLX ;
+	public String  SJJHY ;
+	public String  SXZQH ;
+	public String  DABS ;
+	public String  BZJGDMT ;
+	public String  BZJGMCT ;
+	public String  BZJGMCS ;
+	public String  XZQHDMT ;
+	public String  XZQHMCT ;
+	public String  XZQHMCS ;
+	public String  ISFIRSTDEPART ;
+	public String  LY ;
+	public String  RESERVEA ;
+	public String  RESERVEB ;
+	public String  RESERVEC ;
+	public String  RESERVED ;
+	public String  RESERVEE ;
+	public String PZWH;
+	
+}
